@@ -1,0 +1,24 @@
+
+* {
+	margin : 0; 
+	padding : 0;
+	box-sizing: border-box;
+}
+.btn{
+	background-color: crimson;
+}
+td{
+	background-attachment: blue;
+	color: cornflowerblue;
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+	font-style: italic;
+}
+h1{
+	color: crimson;
+	font-style: inherit;
+}
+
+.clr {
+	background-color: darkcyan ;
+	padding: 20px;
+}
